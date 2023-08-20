@@ -1,0 +1,4 @@
+1. mangue
+2. pomme
+3. banane
+4. coco
